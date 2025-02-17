@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Diego Murillo.
-- 👀 I’m interested in developing web games and web page development.
+- 👀 I’m interested in software developing and web development.
 - 🌱 I’m currently learning web development and software programming.
-- 💞️ I’m looking to collaborate on everithing that can increase my experience.
+- 💞️ I’m looking to collaborate on everything that can increase my experience.
 - 📫 How to reach me, diego20murillo04@gmail.com
 
 <!---
